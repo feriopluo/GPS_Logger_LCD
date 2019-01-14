@@ -1,0 +1,3 @@
+GPS data logger uses Venus GPS Module from Sparkfun. 
+The module seems to be only accurate when outside and in
+motion. 
